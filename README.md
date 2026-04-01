@@ -48,6 +48,7 @@
 - https://github.com/mishakorzik/UserFinder  
 - https://seintpl.github.io/NAMINT/   
 - https://github.com/Alfredredbird/tookie-osint  
+- https://github.com/soxoj/maigret  
 
 ---
 
